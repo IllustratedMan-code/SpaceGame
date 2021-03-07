@@ -1,0 +1,107 @@
+#+SETUPFILE: /home/david/Dropbox/org/org-themes/src/darksun/darksun.theme
+#+title:Space video Game
+
+* Story
+** player character
+*** Artificial Intelligence
+    The player character is an artificial intelligence that is born from
+    a computer located in a spacesuit of a scientist. 
+*** Form
+    The player move  s around by "possessing" the spacesuits e.g. controlling
+    the exoskeleton
+** Society
+*** Aristocrats
+    Aristocrats manage the financials of the space ark including trade with
+    other space arks. The arisocrats have gradually been taking more than
+    their share of the wealth and therefore have the highest standard of living.
+*** Wizards
+    Wizards are the navigational core of each space ark. It takes several
+    wizards to keep the ark from colliding with objects at all times. More
+    wizards are required to guide the ark to a new destination. Due to the
+    extensive modifications to biochemistry that wizards undergo, they also
+    possess psionic abilities such as telepathy.
+*** Miners
+    The major producing arm of a space ark, Miners break down asteroids and
+    other space rocks for their natural resources. These resources are then
+    traded to other space arks or passed to the engineers for production of
+    more useful technology.
+*** Researchers
+    The main interface with computational technology. They manage the spacesuit
+    computers as well as the rest of the computers on the space ark as well as
+    the rest of the computers on the space ark.
+*** Engineers
+    Engineers are responsible for the manufacture and design of all the tools
+    and technology on the space ark.
+*** Coucil of the Caste
+    The council is made up of members of each caste
+** technology
+*** Spaceships
+*** Space Arks
+*** Deployment hub
+    This is where spacesuits are charged and stored
+*** Spacesuits
+*** Computers
+*** Robots
+** History
+*** Wars 
+**** AI war
+     The AI war occurred after the creation of the space arks. AI navigators
+     were used to move through space at very fast speeds and cooridnate meetings
+     with other space arks. Eventually the AI took control of the space arks and
+     controlled the humans. Once the AI was able to pilot the ships completly
+     without any human help they planned to cull the human population. This
+     knowledge was circulated to the humans by AI with strong empathy nueral
+     networks causing them to revolt. The AIs were eventually stripped from the
+     space arks but much computer technology was lost. As a result the humans
+     turned to genetic modification to create the caste system.
+**** Nuclear War
+     The Nuclear war was the result conflict between countries over money and
+     space travel was just becoming commonplace in the consumer market. Many
+     families posses limited means of space travel. Over population and class
+     differences resulted in nuclear war between several large countries whose
+     names are lost to history. Only those with a means of space travel survived.
+     Those small spacecraft bonded together to create the space arks. Self
+     advancing AI was brought along on the small spacecrafts. This AI was eventually
+     able to navigate the space arks.
+**** Solar Cold War
+     Rising tensions between the space arks and their respective factions has
+     caused proxy wars to take place on various cosmic bodies. Stockpiling of
+     resources and weapons is occurring. The occurrence of an AI (the player)
+     has only served to increase tensions as different space arks accuse each
+     other of harboring the AI.
+*** Caste
+    The caste was established after the AI war. It was deemed too dangerous to
+    continue to use computers for navigational needs. The researchers were
+    given the responcibility of computer management and development.
+*** Space arks
+    The space arks were created after the Nuclear War that destroyed earth
+    out of the fleeing spaceships. Development of AI was sped up as it was hoped
+    that many of the dangerous labor efforts could be relegated to the
+    computers.
+** General Story line
+*** Birth of the AI (player tutorial)
+    A lone researcher was inspecting an abandoned asteroid mine as the miners
+    stationed there had vanished. Deep in the mine the researcher discovers an
+    artifact dating to before the AI wars. The artifact starts to infect the
+    computer system on the spacesuit of the researcher with the dormant AI. The
+    researcher realizes what is going on and activates the self destruct sequence
+    on their space suit (gender of researcher is irrelevant). Just as the spacesuit
+    and the artifact are destroyed, the AI that was transferred to the spacesuit
+    is transferred to the space ark where the AI is able to control a spacesuit
+    deployment hub.
+
+* Game-play
+** player character
+   
+** enemies
+** gameplay loop
+
+
+* Timeline
+** Nuclear Wars
+** Creation of Space arks
+** AI becomes self aware
+** AI war
+** Creation of Caste System
+** Solar cold war
+*** Events of Game
